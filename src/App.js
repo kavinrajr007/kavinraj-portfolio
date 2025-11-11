@@ -115,8 +115,8 @@ export default function App() {
             </div>
             <div className="mt-4 space-y-4 text-slate-300">
               <div>
-                <h3 className="font-semibold text-white">Executive Member â€” Whitehatians Club</h3>
-                <p className="text-sm text-slate-400">Jun 2024 â€“ Present • SRM Valliammai Engineering College</p>
+                <h3 className="font-semibold text-white">Executive Member — Whitehatians Club</h3>
+                <p className="text-sm text-slate-400">Jun 2024 – Present • SRM Valliammai Engineering College</p>
                 <ul className="list-disc pl-5 mt-2 space-y-1">
                   <li>Co-led planning and execution of cybersecurity workshops, CTFs and awareness campaigns.</li>
                   <li>Mentored juniors in hands-on labs covering Nmap, Wireshark and pentesting basics.</li>
@@ -125,8 +125,8 @@ export default function App() {
               </div>
 
               <div>
-                <h3 className="font-semibold text-white">Promotional Team Manager â€” CSI Club</h3>
-                <p className="text-sm text-slate-400">2024 â€“ Present • SRM Valliammai Engineering College</p>
+                <h3 className="font-semibold text-white">Promotional Team Manager — CSI Club</h3>
+                <p className="text-sm text-slate-400">2024 – Present • SRM Valliammai Engineering College</p>
                 <ul className="list-disc pl-5 mt-2 space-y-1">
                   <li>Design and publish technical awareness posts and event promotions for club channels.</li>
                   <li>Coordinate content production and ensure technical accuracy for outreach.</li>
@@ -144,7 +144,7 @@ export default function App() {
             <div className="mt-4 space-y-4 text-slate-300">
               <article>
                 <h3 className="font-semibold text-white">IoT Temperature & Monitoring System</h3>
-                <p className="text-sm text-slate-400">Jul 2024 â€“ Aug 2024</p>
+                <p className="text-sm text-slate-400">Jul 2024 – Aug 2024</p>
                 <ul className="list-disc pl-5 mt-2 space-y-1">
                   <li>Built an ESP32-based system using a DHT11 sensor and relay module to monitor temperature and control fan speed automatically.</li>
                   <li>Sent sensor data to ThingSpeak and built a custom dashboard for live monitoring and threshold-based automation.</li>
@@ -154,7 +154,7 @@ export default function App() {
 
               <article>
                 <h3 className="font-semibold text-white">Network Vulnerability Assessment</h3>
-                <p className="text-sm text-slate-400">Aug 2024 â€“ Oct 2024</p>
+                <p className="text-sm text-slate-400">Aug 2024 – Oct 2024</p>
                 <ul className="list-disc pl-5 mt-2 space-y-1">
                   <li>Conducted vulnerability scans on simulated networks using Nmap and analyzed traffic with Wireshark.</li>
                   <li>Identified open ports and misconfigurations, documented remediation steps, and presented findings to peers.</li>
@@ -196,17 +196,17 @@ export default function App() {
           <div className="rounded-2xl p-6 bg-gradient-to-br from-[#021022]/80 to-[#02101a]/60 ring-1 ring-white/3 shadow-xl">
             <h2 className="text-xl font-semibold mb-3 text-white">Certificates</h2>
             <ul className="mt-4 text-slate-300 space-y-2">
-              <li>TryHackMe â€” Pre-Security Path (In progress)</li>
-              <li>Cisco Networking Academy â€” Introduction to Cybersecurity</li>
-              <li>Fortinet NSE 1 &amp; 2 â€” Security Awareness</li>
+              <li>TryHackMe — Pre-Security Path (In progress)</li>
+              <li>Cisco Networking Academy — Introduction to Cybersecurity</li>
+              <li>Fortinet NSE 1 &amp; 2 — Security Awareness</li>
             </ul>
           </div>
 
           <div className="rounded-2xl p-6 bg-gradient-to-br from-[#071225]/80 to-[#02101a]/60 ring-1 ring-white/3 shadow-xl">
             <h2 className="text-xl font-semibold mb-3 text-white">Work Samples</h2>
             <ul className="space-y-2 text-slate-300">
-              <li><a className="text-indigo-300 hover:underline" href="/portfolio/mobile-llms-poster.pdf" target="_blank" rel="noreferrer">Mobile LLMs & Edge Gallery â€” Poster (PDF)</a></li>
-              <li><a className="text-indigo-300 hover:underline" href="/portfolio/network-scan-report.pdf" target="_blank" rel="noreferrer">Network Vulnerability Assessment â€” Report (PDF)</a></li>
+              <li><a className="text-indigo-300 hover:underline" href="/portfolio/mobile-llms-poster.pdf" target="_blank" rel="noreferrer">Mobile LLMs & Edge Gallery — Poster (PDF)</a></li>
+              <li><a className="text-indigo-300 hover:underline" href="/portfolio/network-scan-report.pdf" target="_blank" rel="noreferrer">Network Vulnerability Assessment — Report (PDF)</a></li>
                           <li><a className="text-indigo-300 hover:underline" href="/iot-project.pdf" target="_blank" rel="noreferrer">IoT Temperature & Monitoring — Project (PDF)</a></li></ul>
           </div>
 
@@ -221,10 +221,11 @@ export default function App() {
         </aside>
       </main>
 
-      <footer className="relative max-w-6xl mx-auto text-center text-sm text-slate-400 py-8 z-10">Designed & built by Kavinraj R â€” Â© 2025</footer>
+      <footer className="relative max-w-6xl mx-auto text-center text-sm text-slate-400 py-8 z-10">Designed & built by Kavinraj R — Â© 2025</footer>
     </div>
   );
 }
+
 
 
 
