@@ -60,8 +60,8 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-3xl font-extrabold tracking-tight">Kavinraj R</h1>
-              <p className="text-sm text-slate-300 mt-1">Cybersecurity Student â€¢ Executive Member, Whitehatians</p>
-              <p className="mt-1 text-sm text-indigo-200 font-medium">Promotional Team Manager, CSI â€¢ SRM Valliammai Engineering College</p>
+              <p className="text-sm text-slate-300 mt-1">Cybersecurity Student • Executive Member, Whitehatians</p>
+              <p className="mt-1 text-sm text-indigo-200 font-medium">Promotional Team Manager, CSI • SRM Valliammai Engineering College</p>
               <p className="mt-2 text-sm">
                 <a href="mailto:mrtechieguys@gmail.com" className="text-indigo-100 underline">mrtechieguys@gmail.com</a>
               </p>
@@ -99,7 +99,7 @@ export default function App() {
             <div className="mt-4 grid grid-cols-2 gap-3">
               <div className="p-3 rounded-lg bg-gradient-to-br from-[#0b1530]/60 to-[#071233]/40 ring-1 ring-white/3">
                 <h4 className="text-sm font-semibold text-indigo-200">Role</h4>
-                <p className="text-sm text-slate-300">Student Â· Club Executive</p>
+                <p className="text-sm text-slate-300">Student · Club Executive</p>
               </div>
               <div className="p-3 rounded-lg bg-gradient-to-br from-[#1b1436]/60 to-[#0b1a2b]/40 ring-1 ring-white/3">
                 <h4 className="text-sm font-semibold text-amber-200">Interests</h4>
@@ -116,7 +116,7 @@ export default function App() {
             <div className="mt-4 space-y-4 text-slate-300">
               <div>
                 <h3 className="font-semibold text-white">Executive Member â€” Whitehatians Club</h3>
-                <p className="text-sm text-slate-400">Jun 2024 â€“ Present â€¢ SRM Valliammai Engineering College</p>
+                <p className="text-sm text-slate-400">Jun 2024 â€“ Present • SRM Valliammai Engineering College</p>
                 <ul className="list-disc pl-5 mt-2 space-y-1">
                   <li>Co-led planning and execution of cybersecurity workshops, CTFs and awareness campaigns.</li>
                   <li>Mentored juniors in hands-on labs covering Nmap, Wireshark and pentesting basics.</li>
@@ -126,7 +126,7 @@ export default function App() {
 
               <div>
                 <h3 className="font-semibold text-white">Promotional Team Manager â€” CSI Club</h3>
-                <p className="text-sm text-slate-400">2024 â€“ Present â€¢ SRM Valliammai Engineering College</p>
+                <p className="text-sm text-slate-400">2024 â€“ Present • SRM Valliammai Engineering College</p>
                 <ul className="list-disc pl-5 mt-2 space-y-1">
                   <li>Design and publish technical awareness posts and event promotions for club channels.</li>
                   <li>Coordinate content production and ensure technical accuracy for outreach.</li>
@@ -225,6 +225,8 @@ export default function App() {
     </div>
   );
 }
+
+
 
 
 
