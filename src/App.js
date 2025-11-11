@@ -70,7 +70,7 @@ export default function App() {
 
           <div className="ml-auto flex gap-3">
             <a href="mailto:mrtechieguys@gmail.com?subject=Inquiry%20from%20Portfolio" className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#7c3aed] to-[#06b6d4] text-white rounded-lg shadow-lg hover:scale-[1.02]">Contact</a>
-            <a href="/resume.pdf" download className="inline-flex items-center gap-2 px-4 py-2 border border-white/10 text-white rounded-lg hover:bg-white/5">Download Resume</a>
+            <a href="resume.pdf" download target="_blank" className="inline-flex items-center gap-2 px-4 py-2 border border-white/10 text-white rounded-lg hover:bg-white/5">Download Resume</a>
           </div>
         </div>
       </header>
@@ -225,5 +225,6 @@ export default function App() {
     </div>
   );
 }
+
 
 
