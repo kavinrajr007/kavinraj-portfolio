@@ -221,10 +221,11 @@ export default function App() {
         </aside>
       </main>
 
-      <footer className="relative max-w-6xl mx-auto text-center text-sm text-slate-400 py-8 z-10">Designed & built by Kavinraj R — Â© 2025</footer>
+      <footer className="relative max-w-6xl mx-auto text-center text-sm text-slate-400 py-8 z-10">Designed & built by Kavinraj R — © 2025</footer>
     </div>
   );
 }
+
 
 
 
